@@ -1,4 +1,8 @@
 # TOM-PDFB
+TOM-PDFB is an image matting method for transparent objects.
+
+If you use this source code please cite our paper:  
+```Yihui Liang, Qian Fu, Zou Kun, Guisong Liu, Han Huang*. "Enhancing transparent object matting using predicted definite foreground and background." IEEE Transactions on Circuits and Systems for Video Technology. 2024 (Accepted).```
 
 ## Requirements
 The codes are tested in the following environment:
